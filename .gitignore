@@ -1,0 +1,4 @@
+# Ficheiros temporários e cópias de segurança
+*.tmp
+*.bak
+*.backup*

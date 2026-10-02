@@ -1,0 +1,19 @@
+1 . Análise dos resultados
+- Continente com a maior faturação: 
+	O continente com a maior faturação como esperado, foi o continente europeu, registando certa de $8.500 em vendas o que representa aproximadamente 47.5% da faturaçao global de $17.91k
+- Categoria de medicamento com mais vendas
+	A categoria de medicamentos com o maior volume de vendas é a de Anti-inflamatórios, superando os $2.000 em faturação total.
+
+2. Passos realizados no processo
+
+1. Importaçao de dados : Importei os ficheiros corretamente para o Power Query
+2. Limpeza de dados : Limpei todas as tabelas seguindo o mesmo padrão para que nao houvesse erro. 
+2. Preenchimento de valor em falta : Preenchi os valores que faltavam em certas colunas.
+4. Merge de tabelas : Fiz o merge de duas tabelas para que o meu modelo fosse estrla. 
+5. Relações : Fiz todas as relações nécessarias para que o meu modelo fosse de facto estrela e para que nao houvesse nenhum erro futuramente.
+6. Graficos : Construi um dashboard com as informações mais importantes. 
+
+3. Conclusão 
+
+A análise efetuada demnstra que o mercado europeu e a categorai de Anti-inflamatórios constituem os principais pilares de receita da empresa. 
+Para maximizar os resultados, é recomendado assegurar a gestão de stock prioritária para essa categoria na Europa, ao mesmo tempo que se equacionam estratégias comercias para alavancar as vendas nas restantes regiões e categorias com menor representatividade. 
